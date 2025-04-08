@@ -2,12 +2,17 @@
 用来备份我的OrcaSlicer切片设置
 
 # How to use:
+
 直接下载第一个压缩文件。
-使用方法：打开 “Orca Slicer”-左上角 ”文件“- 选择 ”导入“
+
+使用方法：打开 “Orca Slicer”-左上角 “文件”- 选择 “导入”
+
 文件内附带材料和切片预设。
 
 Download the first zip file directly.
+
 How to use: Open "Orca Slicer" - Top Left Corner "File" - Select "Import"
+
 Material and slice presets are included with the file.
 
 # 特此声明
