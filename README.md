@@ -1,19 +1,19 @@
 # OrcaSetting
-用来备份我的OrcaSlicer切片设置
+This repo is a back up and sharing of the configuration of the Orca Slicer setting based on Bambu Lab P1S and A1 
 
-# How to use:
+## Disclaimer
+The 3D printing slicer parameter settings we have shared are for technical exchange and reference only. Users are responsible for verifying the compatibility of these parameters with their specific printer models and materials. We shall **NOT** be held liable for any consequences arising from the direct use of these settings, including but not limited to print quality issues, abnormal equipment wear, or material waste.
 
-直接下载第一个压缩文件。
+## Pre-request
+[Orca Slicer](https://github.com/SoftFever/OrcaSlicer?tab=readme-ov-file)\
+[Bambu Lab P1S](https://asia.store.bambulab.com/products/p1s?from=home_web) (3D Printer) or 
+[Bambu Lab A1](https://bambulab.com/en/a1) (3D Printer)
 
-使用方法：打开 “Orca Slicer”-左上角 “文件”- 选择 “导入”
-
-文件内附带材料和切片预设。
-
-Download the first zip file directly.
-
-How to use: Open "Orca Slicer" - Top Left Corner "File" - Select "Import"
-
+## How to use:
+1. Download the latest release (i.e. Orca-2025.0408.zip)
+2. Un-zip the file
+3. Open "Orca Slicer" - Top Left Corner "File" - Select "Import" import 
 Material and slice presets are included with the file.
 
-# 特此声明
-本人分享的3D打印切片参数设置仅供技术交流参考。用户需自行验证参数与具体机型、耗材的适配性，因直接使用该设置导致的打印质量问题、设备异常损耗或材料浪费等后果，本人不承担任何责任。
+## Lisence
+This project is under MIT Lisence [TL;DR](https://www.tldrlegal.com/license/mit-license)
